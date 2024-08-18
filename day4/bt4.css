@@ -1,0 +1,23 @@
+.ong {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #7e57c2;
+    padding: 10px 20px;
+}
+
+.bo {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: auto;
+}
+
+.con {
+    list-style: none;
+    display: flex;
+}
+
+.con li {
+    margin-left: 20px;
+}

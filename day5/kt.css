@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+}
+
+.container {
+    background-color: #fff;
+    width: 300px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+.search {
+    padding: 10px 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.search input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.items {
+    padding: 20px;
+}
